@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //Code is edited now
+            //Code is edited
         }
     }
 }
